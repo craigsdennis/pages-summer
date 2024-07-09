@@ -6,7 +6,7 @@ type Bindings = {
 
 const app = new Hono<{ Bindings: Bindings }>()
 
-app.get('/', (c) => {
+app.get('/api/', (c) => {
   return c.text('Hello Hono!')
 })
 
