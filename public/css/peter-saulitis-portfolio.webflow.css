@@ -8371,7 +8371,6 @@ img {
 }
 
 .subhead-6 {
-  letter-spacing: -2px;
   text-transform: none;
   font-family: San Serif, sans-serif;
   font-size: 60px;
@@ -10266,7 +10265,6 @@ html.w-mod-js [data-ix="frome-left"] {
   }
 
   .subhead-6 {
-    letter-spacing: -1px;
     font-size: 40px;
     line-height: 90%;
   }
